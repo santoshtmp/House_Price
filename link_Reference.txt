@@ -1,0 +1,17 @@
+
+
+=====================================================================
+(venv) D:\PY\Workspace\housePRICE_banglor_flaskWEBAPP>pip freeze
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+numpy==1.18.3
+scikit-learn==0.22.2.post1
+scipy==1.4.1
+sklearn==0.0
+======================================================================
+
+1. https://kite.com/python/docs/flask.jsonify
+2. https://www.youtube.com/watch?v=qtQ9TvQLKjc
+3. https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
+5. https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
